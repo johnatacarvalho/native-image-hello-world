@@ -1,5 +1,5 @@
 # native-image-hello-world
-Just a simple project to build a native image using GraalVM
+Just a simple Spring application and use GraalVM
 
 ## Main Itens:
 
